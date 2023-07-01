@@ -21,7 +21,7 @@ I am a beginner frontend developer, aspiring to create user-friendly and appeali
 
 ### code example:
 
-`console.log('hello world')`
+`console.log("hello world")`
 
 ### courses:
   - Front-end 2022 Q3
